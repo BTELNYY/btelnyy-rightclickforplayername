@@ -54,7 +54,7 @@ public class RightClickForName extends JavaPlugin {
         getServer().getPluginManager().registerEvents(new EventListener(), this);
 
         // GitHub message
-        getLogger().info("Check out the project on GitHub! https://github.com/BTELNYY/btelnyy-mcexmapleplugin");
+        getLogger().info("Check out the project on GitHub! https://github.com/BTELNYY/btelnyy-rightclickforplayername");
     }
     @Override
     public void onDisable(){

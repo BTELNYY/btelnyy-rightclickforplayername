@@ -39,6 +39,6 @@ public class Utils {
     public static void sendActionBarMessage(Player player, String message){
         player.spigot().sendMessage(
             ChatMessageType.ACTION_BAR,
-            new TextComponent("This message will be in the Action Bar"));
+            new TextComponent(message));
     }
 }
