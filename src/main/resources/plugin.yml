@@ -1,0 +1,5 @@
+name: btelnyy-rightclickforname
+main: me.btelnyy.rightclickforname.RightClickForName
+version: ${project.version}
+api-version: 1.19
+commands:

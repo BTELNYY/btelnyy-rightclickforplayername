@@ -1,0 +1,8 @@
+# Can only see names of same team?
+see_only_same_team_names: false
+
+# Show username instead of displayname? (This means prefixes wont work unless this is set to false)
+use_username: true
+
+# Should team colors be shown?
+show_team_color: true
